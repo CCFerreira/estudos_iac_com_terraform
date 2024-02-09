@@ -1,0 +1,9 @@
+terraform init
+
+terraform apply
+
+terraform output
+
+terraform output instance_ids
+
+terraform destroy 
